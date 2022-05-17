@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋 
+
+-I am currently an undergraduate student at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
+
+-My main research interests are Robotics, Machine Learning and Music Technology
+
+-Contact me at 📫 mollysunqy@gmail.com
 
 <!--
 **MollySunqy/MollySunqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
