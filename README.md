@@ -4,9 +4,11 @@
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
+-Currently working on motion planning and model predictive control
+
 -Contact me at 📫 mollysunqy@gmail.com
 
-
+-Fun fact: Vous pouvez me contacter en français. Je ne veux pas apprendre une troisième langue étrangère ! J'ai fait de mon mieux pour parler français à Montréal mais je vais à Zurich en septembre :((( 
 
 <!--
 **MollySunqy/MollySunqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
