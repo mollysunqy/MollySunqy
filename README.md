@@ -1,6 +1,6 @@
 ### Welcome 👋 
 
--I am currently an master student at ETH Zurich.
+-I am currently an Master's student in Robotics, Systems and Contorl at ETH Zurich.
 
 -I previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
 
