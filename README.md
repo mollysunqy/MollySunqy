@@ -2,7 +2,7 @@
 
 -I am currently an master student at ETH Zurich.
 
-- I previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
+-I previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
