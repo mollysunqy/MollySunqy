@@ -1,14 +1,16 @@
 ### Welcome 👋 
 
--I am currently an undergraduate student at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
+-I am currently an master student at ETH Zurich.
+
+- I previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
--Currently working on motion planning and model predictive control
+-Currently working on shape perception and dense point tracking.
 
 -Contact me at 📫 mollysunqy@gmail.com
 
--Fun fact: Vous pouvez me contacter en français. Je ne veux pas apprendre une troisième langue étrangère ! J'ai fait de mon mieux pour parler français à Montréal mais je vais à Zurich en septembre :((( 
+-Fun fact: Vous pouvez me contacter en français. 
 
 <!--
 **MollySunqy/MollySunqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
