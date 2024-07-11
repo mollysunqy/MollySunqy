@@ -6,11 +6,10 @@
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
--Currently working on shape perception and dense point tracking.
+-Currently working on some stuff.
 
 -Contact me at 📫 mollysunqy@gmail.com
 
--Fun fact: Vous pouvez me contacter en français. 
 
 <!--
 **MollySunqy/MollySunqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
