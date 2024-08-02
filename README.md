@@ -6,9 +6,9 @@
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
--Currently working on some stuff.
+-Currently working on school stuff.
 
--Contact me at 📫 mollysunqy@gmail.com
+-Fun fact: as a dancer I can only count fünf sechs sieben acht in german.
 
 
 <!--
