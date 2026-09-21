@@ -1,12 +1,12 @@
 ### Welcome 👋 
 
--I am currently an Master's student in Robotics, Systems and Contorl at ETH Zurich.
+-I used to be an Master's student in Robotics, Systems and Contorl at ETH Zurich.
 
--I previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
+-I also previously studied at [Mcgill School of Computer Science](https://www.cs.mcgill.ca/), with a minor in [Music Technology](https://www.mcgill.ca/music/about-us/music-technology)
 
 -My main research interests are Robotics, Computer Vision, Machine Learning and Music Technology
 
--Currently working on school stuff.
+-Currently working on VLA stuff.
 
 -Fun fact: as a dancer I can only count fünf sechs sieben acht in german.
 
